@@ -4,10 +4,7 @@
      
      - AWS Homelab:
      
-     - Active Directory Homelab:
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- 
-     
+     - Active Directory Homelab: 
      
 <h2>👨‍💻 Software Development Projects:</h2>
 
