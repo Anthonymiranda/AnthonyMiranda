@@ -1,9 +1,8 @@
 <h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonymiranda">Programmer</a> and <a href="http://www.linkedin.com/in/anthony-m-0b5489284">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-     
-     - [AWS Homelab](https://github.com/Anthonymiranda/AWS-Homelab/tree/main)
-      
+[AWS Homelab](https://github.com/Anthonymiranda/AWS-Homelab/tree/main)
+
      - Active Directory Homelab: 
      
 <h2>👨‍💻 Software Development Projects:</h2>
