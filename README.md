@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
      
-     - AWS Homelab:
-     
+     - [AWS Homelab](https://github.com/Anthonymiranda/AWS-Homelab/tree/main)
+      
      - Active Directory Homelab: 
      
 <h2>👨‍💻 Software Development Projects:</h2>
