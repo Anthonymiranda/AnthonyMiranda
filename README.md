@@ -10,6 +10,8 @@
 
 - <b>Python</b>
   - [Task Time Keeping School Project](https://github.com/Anthonymiranda/Python-Time-Keeping-Project/tree/main)
+  - [Sorting Array & HashMap](https://github.com/Anthonymiranda/Sorting-Array-/tree/main)
+    
     
  
 <h2> Certifications:</h2>
