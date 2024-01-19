@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Azure Honeypot Attacks & SIEM Sentinel](https://github.com/Anthonymiranda/Azure-SIEM-Sentinel/blob/main/README.md)
   - [AWS Linux & Microsoft Server 2022 Homelabs](https://github.com/Anthonymiranda/AWS-Homelab/tree/main)
   -  Active Directory Homelab: 
      
