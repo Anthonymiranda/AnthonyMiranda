@@ -13,7 +13,16 @@
   - [Game Coded in Python 3](https://github.com/Anthonymiranda/Python3-Games/tree/main)
 
  - <b>Java</b>
-    - [Sorting Array & HashMap](https://github.com/Anthonymiranda/Sorting-Array-/tree/main)
+   <ul>
+     <li><a href="https://github.com/Anthonymiranda/Sorting-Array-/tree/main">Sorting Array & HashMap</a></li>
+  </ul>
+ - <b>HTML5</b>
+ <ul>
+<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/edit/Cat-Blog-Page-Project/README.md">Cat blog page project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Cat-Photo-App-Project">Cat Photo App Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Learn-HTML-Recipe-Code-Project">Learn HTML5 Code Recipe Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Travel-Website-HTML5-Project">Travel Website Project</a></li>
+</ul>
     
  
 <h2> Certifications:</h2>
