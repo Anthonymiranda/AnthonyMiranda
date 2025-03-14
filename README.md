@@ -18,10 +18,10 @@
   </ul>
  - <b>HTML5</b>
  <ul>
-<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/edit/Cat-Blog-Page-Project/README.md">Cat blog page project</a></li>
-<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Cat-Photo-App-Project">Cat Photo App Project</a></li>
-<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Learn-HTML-Recipe-Code-Project">Learn HTML5 Code Recipe Project</a></li>
-<li><a href="https://github.com/Anthonymiranda/HMTL5-Learn/tree/Travel-Website-HTML5-Project">Travel Website Project</a></li>
+<li><a href="ttps://github.com/Anthonymiranda/HTML5/blob/main/Checkout-Page-Project.html">Checkout Page Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/HTML5-Blog-Page.html">Blog Page Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/Hotel-Feedback-Form.html">Hotel Feedback Form Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/Simple-Exam-Table.hmtl">Simple Exam Table Project</a></li>
 </ul>
     
  
