@@ -8,22 +8,26 @@
      
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+-<b>Python</b>
   - [Task Time Keeping School Project](https://github.com/Anthonymiranda/Python-Time-Keeping-Project/tree/main)
   - [Game Coded in Python 3](https://github.com/Anthonymiranda/Python3-Games/tree/main)
 
- - <b>Java</b>
+   -<b>Java</b>
    <ul>
      <li><a href="https://github.com/Anthonymiranda/Sorting-Array-/tree/main">Sorting Array & HashMap</a></li>
   </ul>
  - <b>HTML5</b>
  <ul>
-<li><a href="ttps://github.com/Anthonymiranda/HTML5/blob/main/Checkout-Page-Project.html">Checkout Page Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/Checkout-Page-Project.html">Checkout Page Project</a></li>
 <li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/HTML5-Blog-Page.html">Blog Page Project</a></li>
 <li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/Hotel-Feedback-Form.html">Hotel Feedback Form Project</a></li>
 <li><a href="https://github.com/Anthonymiranda/HTML5/blob/main/Simple-Exam-Table.hmtl">Simple Exam Table Project</a></li>
 </ul>
-    
+</ul>
+ - <b>CSS on HTML5</b>
+ <ul>
+<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main">Cafe Menu Project</a></li>
+ </ul>
  
 <h2> Certifications:</h2>
 
@@ -32,10 +36,6 @@
 - [CompTIA Netwok+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=FDBD47E0938C5820966CD0B5C68B42AFO5746BBC83AE32D1C286E201DB2BA6FFB)
 
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=69F5FD26EC30E93394C321C1E5FE9C11OD50083531F1D17A29915155DA248512C)
-
-- [CompTIA IT Operation Specialist](https://www.credly.com/badges/c36dbb62-b44a-4dc8-820e-f5ae1e764b52/linked_in_profile)
-
-- [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/c42b7c4a-c364-4b9d-a9c2-abae0b214260/linked_in_profile)
 
 - [AWS SysOps Associates](https://www.credly.com/badges/91768c59-1c2d-4619-9673-d40eb1e90f38/public_url)
   
