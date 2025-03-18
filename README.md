@@ -26,8 +26,18 @@
 </ul>
  - <b>CSS on HTML5</b>
  <ul>
-<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main">Cafe Menu Project</a></li>
+<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/cafe-men)">Cafe Menu Project Code Repository</a><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/cafe-menu.html">Cafe Menu Viewable Website</a></li></ul></li>
  </ul>
+  <ul>
+<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/business-card">Business Card Project Code Repository</a><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/business-card.html">Business Card Viewable Website</a></li></ul></li>
+ </ul>
+   <ul>
+<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/My-todo-list">To Do List Project Code Repository</a></li>
+   </ul>
+<ul>
+  <li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/Blog-Post-Card">Blog Post Card Code Repository</a></li><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/html-css.html">See the Blog Post Card in action here</a></li></ul>
+</ul>
+
  
 <h2> Certifications:</h2>
 
@@ -44,4 +54,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="anthonymiranda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](http://www.linkedin.com/in/anthony-m-0b5489284)
+<img align="left" alt="anthonymiranda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](http://www.linkedin.com/in/anthony-m-0b5489284) <br>
+👨‍💻 <a href="https://anthonymiranda.w3spaces.com">My Portfolio</a>
