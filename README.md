@@ -16,9 +16,9 @@
    <ul>
      <li><a href="https://github.com/Anthonymiranda/Sorting-Array-/tree/main">Sorting Array & HashMap</a></li>
   </ul>
- - <b><a href="https://github.com/Anthonymiranda/JavaScript">JavaScript Projects (click here)</a></b>
- 
-</ul>
+ - <b>JavaScript Projects</b>
+ <ul>
+<li><a href="https://github.com/Anthonymiranda/JavaScript">JavaScript Projects (click here)</a></li> </ul>
  - <b>CSS on HTML5</b>
  <ul>
 <li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/cafe-men)">Cafe Menu Project Code Repository</a><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/cafe-menu.html">Cafe Menu Viewable Website</a></li></ul></li>
