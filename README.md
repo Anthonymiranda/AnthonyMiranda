@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonymiranda">Coding Aficionado</a> and <a href="http://www.linkedin.com/in/anthony-m-0b5489284">IT Professional</a>
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonymiranda">Coder</a> and <a href="http://www.linkedin.com/in/anthony-m-0b5489284">IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
