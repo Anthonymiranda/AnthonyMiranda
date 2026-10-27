@@ -19,20 +19,6 @@
  - <b>JavaScript Projects</b>
  <ul>
 <li><a href="https://github.com/Anthonymiranda/JavaScript">JavaScript Projects (click here)</a></li> </ul>
- - <b>CSS on HTML5</b>
- <ul>
-<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/cafe-men)">Cafe Menu Project Code Repository</a><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/cafe-menu.html">Cafe Menu Viewable Website</a></li></ul></li>
- </ul>
-  <ul>
-<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/business-card">Business Card Project Code Repository</a><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/business-card.html">Business Card Viewable Website</a></li></ul></li>
- </ul>
-   <ul>
-<li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/My-todo-list">To Do List Project Code Repository</a></li>
-   </ul>
-<ul>
-  <li><a href="https://github.com/Anthonymiranda/CSS-HTML/tree/main/Blog-Post-Card">Blog Post Card Code Repository</a></li><ul><li><a href="https://anthonymiranda.w3spaces.com/HTML-CSS/html-css.html">See the Blog Post Card in action here</a></li></ul>
-</ul>
-
  
 <h2> Certifications:</h2>
 
@@ -43,8 +29,6 @@
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=69F5FD26EC30E93394C321C1E5FE9C11OD50083531F1D17A29915155DA248512C)
 
 - [AWS SysOps Associates](https://www.credly.com/badges/91768c59-1c2d-4619-9673-d40eb1e90f38/public_url)
-  
-<h2>📺 Popular YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
